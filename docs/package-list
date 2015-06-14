@@ -1,0 +1,8 @@
+org.aconex.gedcom
+org.aconex.gedcom.Exceptions
+org.aconex.gedcom.helpers
+org.aconex.gedcom.models
+org.aconex.gedcom.parsers
+org.aconex.gedcom.parsers.blocks
+org.aconex.gedcom.processors
+org.aconex.gedcom.utils

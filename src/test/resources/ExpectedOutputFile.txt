@@ -1,0 +1,70 @@
+<gedcom>
+    <INDI id="@I0001@">
+        <NAME>Elizabeth Alexandra Mary /Windsor/</NAME>
+        <SEX>F</SEX>
+        <BIRT>
+            <DATE>21 Apr 1926</DATE>
+            <PLAC>17 Bruton Street, London, W1</PLAC>
+        </BIRT>
+        <OCCU>Queen</OCCU>
+        <FAMC>@F0003@</FAMC>
+        <FAMS>@F0001@</FAMS>
+        <NOTE>@N0002@</NOTE>
+        <CHAN>
+            <DATE>13 Dec 2003</DATE>
+        </CHAN>
+    </INDI>
+    <INDI id="@I0002@">
+        <NAME>Philip /Mountbatten/</NAME>
+        <SEX>M</SEX>
+        <BIRT>
+            <DATE>1921</DATE>
+        </BIRT>
+        <TITL>Duke of Edinburgh</TITL>
+        <FAMC>@F0002@</FAMC>
+        <FAMS>@F0001@</FAMS>
+        <NOTE>@N0001@</NOTE>
+        <CHAN>
+            <DATE>6 Mar 2004</DATE>
+        </CHAN>
+    </INDI>
+    <INDI id="@I0003@">
+        <NAME>Andrew</NAME>
+        <SEX>M</SEX>
+        <FAMS>@F0002@</FAMS>
+        <NOTE>@N0013@</NOTE>
+        <CHAN>
+            <DATE>6 Mar 2004</DATE>
+        </CHAN>
+    </INDI>
+    <INDI id="@I0004@">
+        <NAME>Alice</NAME>
+        <SEX>F</SEX>
+        <FAMS>@F0002@</FAMS>
+    </INDI>
+    <INDI id="@I0005@">
+        <NAME>George VI</NAME>
+        <SEX>M</SEX>
+        <BIRT>
+            <DATE>1895</DATE>
+        </BIRT>
+        <DEAT value="Y">
+            <DATE>1952</DATE>
+        </DEAT>
+        <FAMC>@F0005@</FAMC>
+        <FAMS>@F0003@</FAMS>
+        <NOTE>@N0004@</NOTE>
+        <CHAN>
+            <DATE>13 Dec 2003</DATE>
+        </CHAN>
+    </INDI>
+    <INDI id="@I0006@">
+        <NAME>Charles Philip Arthur George /Windsor/</NAME>
+        <SEX>M</SEX>
+        <BIRT>
+            <DATE>14 Nov 1948</DATE>
+        </BIRT>
+        <FAMC>@F0001@</FAMC>
+        <FAMS>@F0004@</FAMS>
+    </INDI>
+</gedcom>
